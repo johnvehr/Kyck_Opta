@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+  <SoccerFeed TimeStamp="20111108T162839+0000">
+    <SoccerDocument Type="Result" uID="f360575">
+      <Competition uID="c8">
+        <Country>England</Country>
+        <Name>English Barclays Premier League</Name>
+        <Stat Type="season_id">2011</Stat>
+        <Stat Type="season_name">Season 2011/2012</Stat>
+        <Stat Type="symid">EN_PR</Stat>
+        <Stat Type="matchday">11</Stat>
+      </Competition>
+      <MatchData>
+        <MatchInfo MatchType="Regular" Period="FullTime" TimeStamp="20111105T165255+0000">
+          <Attendance>75570</Attendance>
+          <Date>20111105T150000+0000</Date>
+          <Result Type="NormalResult" Winner="t1" />
+        </MatchInfo>
+        <MatchOfficial uID="o28689">
+          <OfficialData>
+            <OfficialRef Type="Main" />
+          </OfficialData>
+          <OfficialName>
+            <First>Lee</First>
+            <Last>Mason</Last>
+          </OfficialName>
+        </MatchOfficial>
+        <Stat Type="match_time">94</Stat>
+        <TeamData Score="1" Side="Home" TeamRef="t1">
+          <Goal EventID="776959033" EventNumber="1461" Period="FirstHalf" PlayerRef="p1841" Time="46" TimeStamp="20111105T154624+0000" Type="Own" uID="g1-1" />
+          <PlayerLineUp>
+            <MatchPlayer PlayerRef="p39725" Position="Goalkeeper" ShirtNumber="34" Status="Start" />
+            <MatchPlayer PlayerRef="p14075" Position="Defender" ShirtNumber="3" Status="Start" />
+            <MatchPlayer PlayerRef="p2034" Position="Defender" ShirtNumber="5" Status="Start" />
+            <MatchPlayer PlayerRef="p76359" Position="Defender" ShirtNumber="4" Status="Start" />
+            <MatchPlayer PlayerRef="p14965" Position="Defender" ShirtNumber="15" Status="Start" />
+            <MatchPlayer PlayerRef="p14295" Position="Midfielder" ShirtNumber="24" Status="Start" />
+            <MatchPlayer PlayerRef="p38530" Position="Midfielder" ShirtNumber="17" Status="Start" />
+            <MatchPlayer PlayerRef="p12882" Position="Midfielder" ShirtNumber="13" Status="Start" />
+            <MatchPlayer PlayerRef="p13017" Position="Striker" ShirtNumber="10" Status="Start" />
+            <MatchPlayer PlayerRef="p50175" Position="Striker" ShirtNumber="19" Status="Start" />
+            <MatchPlayer PlayerRef="p43020" Position="Striker" ShirtNumber="14" Status="Start" />
+            <MatchPlayer PlayerRef="p54771" Position="Substitute" ShirtNumber="20" Status="Sub" />
+            <MatchPlayer PlayerRef="p2404" Position="Substitute" ShirtNumber="16" Status="Sub" />
+            <MatchPlayer PlayerRef="p51940" Position="Substitute" ShirtNumber="1" Status="Sub" />
+            <MatchPlayer PlayerRef="p37642" Position="Substitute" ShirtNumber="6" Status="Sub" />
+            <MatchPlayer PlayerRef="p20695" Position="Substitute" ShirtNumber="25" Status="Sub" />
+            <MatchPlayer PlayerRef="p61858" Position="Substitute" ShirtNumber="32" Status="Sub" />
+            <MatchPlayer PlayerRef="p8595" Position="Substitute" ShirtNumber="9" Status="Sub" />
+          </PlayerLineUp>
+          <Substitution EventID="406037133" EventNumber="2732" Period="2" Reason="Tactical" SubOff="p50175" SubOn="p8595" SubstitutePosition="4" Time="73" TimeStamp="20111105T163247+0000" uID="s1-1" />
+          <Substitution EventID="561069249" EventNumber="2833" Period="2" Reason="Tactical" SubOff="p12882" SubOn="p2404" SubstitutePosition="3" Time="83" TimeStamp="20111105T164247+0000" uID="s1-2" />
+          <Substitution EventID="889908802" EventNumber="2934" Period="2" Reason="Tactical" SubOff="p14295" SubOn="p54771" SubstitutePosition="2" Time="93" TimeStamp="20111105T165155+0000" uID="s1-3" />
+        </TeamData>
+        <TeamData Score="0" Side="Away" TeamRef="t56">
+          <Booking Card="Yellow" CardType="Yellow" EventID="193165154" EventNumber="1415" Period="FirstHalf" PlayerRef="p19057" Reason="Foul" Time="41" TimeStamp="20111105T154129+0000" uID="b56-1" />
+          <Booking Card="Yellow" CardType="Yellow" EventID="684704691" EventNumber="1486" Period="FirstHalf" PlayerRef="p98769" Reason="Foul" Time="48" TimeStamp="20111105T154805+0000" uID="b56-2" />
+          <PlayerLineUp>
+            <MatchPlayer PlayerRef="p20531" Position="Goalkeeper" ShirtNumber="20" Status="Start" />
+            <MatchPlayer PlayerRef="p1841" Position="Defender" ShirtNumber="5" Status="Start" />
+            <MatchPlayer PlayerRef="p17997" Position="Defender" ShirtNumber="2" Status="Start" />
+            <MatchPlayer PlayerRef="p15864" Position="Defender" ShirtNumber="4" Status="Start" />
+            <MatchPlayer PlayerRef="p15073" Position="Midfielder" ShirtNumber="11" Status="Start" />
+            <MatchPlayer PlayerRef="p34392" Position="Midfielder" ShirtNumber="28" Status="Start" />
+            <MatchPlayer PlayerRef="p19057" Position="Midfielder" ShirtNumber="7" Status="Start" />
+            <MatchPlayer PlayerRef="p58771" Position="Midfielder" ShirtNumber="14" Status="Start" />
+            <MatchPlayer PlayerRef="p28448" Position="Midfielder" ShirtNumber="6" Status="Start" />
+            <MatchPlayer PlayerRef="p59125" Position="Striker" ShirtNumber="10" Status="Start" />
+            <MatchPlayer PlayerRef="p27697" Position="Striker" ShirtNumber="52" Status="Start" />
+            <MatchPlayer PlayerRef="p63370" Position="Substitute" ShirtNumber="23" Status="Sub" />
+            <MatchPlayer PlayerRef="p19478" Position="Substitute" ShirtNumber="24" Status="Sub" />
+            <MatchPlayer PlayerRef="p28468" Position="Substitute" ShirtNumber="8" Status="Sub" />
+            <MatchPlayer PlayerRef="p108416" Position="Substitute" ShirtNumber="42" Status="Sub" />
+            <MatchPlayer PlayerRef="p53371" Position="Substitute" ShirtNumber="18" Status="Sub" />
+            <MatchPlayer PlayerRef="p98769" Position="Substitute" ShirtNumber="17" Status="Sub" />
+            <MatchPlayer PlayerRef="p37339" Position="Substitute" ShirtNumber="27" Status="Sub" />
+          </PlayerLineUp>
+          <Substitution EventID="2141094289" EventNumber="158" Period="1" Reason="Injury" SubOff="p59125" SubOn="p98769" SubstitutePosition="4" Time="5" TimeStamp="20111105T150507+0000" uID="s56-1" />
+          <Substitution EventID="2100632770" EventNumber="2769" Period="2" Reason="Tactical" SubOff="p58771" SubOn="p53371" SubstitutePosition="3" Time="76" TimeStamp="20111105T163522+0000" uID="s56-2" />
+          <Substitution EventID="848039427" EventNumber="27610" Period="2" Reason="Tactical" SubOff="p34392" SubOn="p37339" SubstitutePosition="3" Time="76" TimeStamp="20111105T163536+0000" uID="s56-3" />
+        </TeamData>
+      </MatchData>
+      <Team uID="t1">
+        <Country>England</Country>
+        <Name>Manchester United</Name>
+        <Player Position="Goalkeeper" uID="p39725">
+          <PersonName>
+            <First>Anders</First>
+            <Last>Lindegaard</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p14075">
+          <PersonName>
+            <First>Patrice</First>
+            <Last>Evra</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p2034">
+          <PersonName>
+            <First>Rio</First>
+            <Last>Ferdinand</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p76359">
+          <PersonName>
+            <First>Phil</First>
+            <Last>Jones</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p14965">
+          <PersonName>
+            <First>Nemanja</First>
+            <Last>Vidic</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p14295">
+          <PersonName>
+            <First>Darren</First>
+            <Last>Fletcher</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p38530">
+          <PersonName>
+            <First>Luís</First>
+            <Known>Nani</Known>
+            <Last>Almeida da Cunha</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p12882">
+          <PersonName>
+            <First>Ji-Sung</First>
+            <Known>Park Ji-Sung</Known>
+            <Last>Park</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Striker" uID="p13017">
+          <PersonName>
+            <First>Wayne</First>
+            <Last>Rooney</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Striker" uID="p50175">
+          <PersonName>
+            <First>Danny</First>
+            <Last>Welbeck</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Striker" uID="p43020">
+          <PersonName>
+            <First>Javier</First>
+            <Last>Hernández</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p54771">
+          <PersonName>
+            <First>Fabio Pereira</First>
+            <Known>Fabio</Known>
+            <Last>da Silva</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p2404">
+          <PersonName>
+            <First>Michael</First>
+            <Last>Carrick</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p51940">
+          <PersonName>
+            <First>David</First>
+            <Last>De Gea</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p37642">
+          <PersonName>
+            <First>Jonny</First>
+            <Last>Evans</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p20695">
+          <PersonName>
+            <First>Luis Antonio</First>
+            <Known>Antonio Valencia</Known>
+            <Last>Valencia</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p61858">
+          <PersonName>
+            <First>Mame</First>
+            <Known>Mame Biram Diouf</Known>
+            <Last>Biram Diouf</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p8595">
+          <PersonName>
+            <First>Dimitar</First>
+            <Last>Berbatov</Last>
+          </PersonName>
+        </Player>
+        <TeamOfficial Type="Manager" uID="man58">
+          <PersonName>
+            <First>Alex</First>
+            <Last>Ferguson</Last>
+          </PersonName>
+        </TeamOfficial>
+      </Team>
+      <Team uID="t56">
+        <Country>England</Country>
+        <Name>Sunderland</Name>
+        <Player Position="Goalkeeper" uID="p20531">
+          <PersonName>
+            <First>Keiren</First>
+            <Last>Westwood</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p1841">
+          <PersonName>
+            <First>Wes</First>
+            <Last>Brown</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p17997">
+          <PersonName>
+            <First>Phillip</First>
+            <Last>Bardsley</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Defender" uID="p15864">
+          <PersonName>
+            <First>Michael</First>
+            <Last>Turner</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p15073">
+          <PersonName>
+            <First>Kieran</First>
+            <Last>Richardson</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p34392">
+          <PersonName>
+            <First>Stéphane</First>
+            <Last>Sessegnon</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p19057">
+          <PersonName>
+            <First>Sebastian</First>
+            <Known>Sebastian Larsson</Known>
+            <Last>Larsson</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p58771">
+          <PersonName>
+            <First>Jack</First>
+            <Last>Colback</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Midfielder" uID="p28448">
+          <PersonName>
+            <First>Lee</First>
+            <Last>Cattermole</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Striker" uID="p59125">
+          <PersonName>
+            <First>Connor</First>
+            <Last>Wickham</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Striker" uID="p27697">
+          <PersonName>
+            <First>Nicklas</First>
+            <Last>Bendtner</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p63370">
+          <PersonName>
+            <First>James</First>
+            <Last>McClean</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p19478">
+          <PersonName>
+            <First>Trevor</First>
+            <Last>Carson</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p28468">
+          <PersonName>
+            <First>Craig</First>
+            <Last>Gardner</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p108416">
+          <PersonName>
+            <First>John</First>
+            <Last>Egan</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p53371">
+          <PersonName>
+            <First>David</First>
+            <Last>Meyler</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p98769">
+          <PersonName>
+            <First>Dong-Won</First>
+            <Known>Ji Dong-Won</Known>
+            <Last>Ji</Last>
+          </PersonName>
+        </Player>
+        <Player Position="Substitute" uID="p37339">
+          <PersonName>
+            <First>Ahmed</First>
+            <Last>Elmohamady</Last>
+          </PersonName>
+        </Player>
+        <TeamOfficial Type="Manager" uID="man81">
+          <PersonName>
+            <First>Steve</First>
+            <Last>Bruce</Last>
+          </PersonName>
+        </TeamOfficial>
+      </Team>
+      <Venue uID="v28">
+        <Country>England</Country>
+        <Name>Old Trafford</Name>
+      </Venue>
+    </SoccerDocument>
+  </SoccerFeed>

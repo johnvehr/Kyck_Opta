@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoccerFeed TimeStamp="20120219T175112+0000">
+  <SoccerDocument Type="Latest" uID="f370553">
+    <Competition uID="c23">
+      <Country>Spain</Country>
+      <Name>Spanish La Liga</Name>
+      <Stat Type="season_id">2011</Stat>
+      <Stat Type="season_name">Season 2011/2012</Stat>
+      <Stat Type="symid">ES_PL</Stat>
+      <Stat Type="matchday">24</Stat>
+    </Competition>
+    <MatchData>
+      <MatchInfo MatchType="Regular" Period="HalfTime" TimeStamp="20120219T174606+0000">
+        <Attendance>15000</Attendance>
+        <Date>20120219T170000+0000</Date>
+      </MatchInfo>
+      <MatchOfficial uID="o39537">
+        <OfficialData>
+          <OfficialRef Type="Main" />
+        </OfficialData>
+        <OfficialName>
+          <First>Alfonso</First>
+          <Last>Alvarez Izquierdo</Last>
+        </OfficialName>
+      </MatchOfficial>
+      <Stat Type="match_time">46</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t181">
+        <Booking Card="Yellow" CardType="Yellow" EventID="1099429333" EventNumber="1311" Period="FirstHalf" PlayerRef="p19917" Reason="Encroachment" Time="31" TimeStamp="20120219T173105+0000" uID="b181-1" />
+        <Booking Card="Yellow" CardType="Yellow" EventID="594495219" EventNumber="1332" Period="FirstHalf" PlayerRef="p28590" Reason="Foul" Time="33" TimeStamp="20120219T173249+0000" uID="b181-2" />
+        <Booking Card="Yellow" CardType="Yellow" EventID="281920645" EventNumber="1363" Period="FirstHalf" PlayerRef="p41322" Reason="Foul" Time="36" TimeStamp="20120219T173558+0000" uID="b181-3" />
+        <Goal EventID="500160017" EventNumber="1414" Period="FirstHalf" PlayerRef="p26768" Time="41" TimeStamp="20120219T174033+0000" Type="Goal" uID="g181-1">
+          <Assist PlayerRef="p45825">p45825</Assist>
+        </Goal>
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p17622" Position="Goalkeeper" ShirtNumber="13" Status="Start" />
+          <MatchPlayer PlayerRef="p41322" Position="Defender" ShirtNumber="21" Status="Start" />
+          <MatchPlayer PlayerRef="p28590" Position="Defender" ShirtNumber="16" Status="Start" />
+          <MatchPlayer PlayerRef="p38079" Position="Defender" ShirtNumber="15" Status="Start" />
+          <MatchPlayer PlayerRef="p17906" Position="Defender" ShirtNumber="4" Status="Start" />
+          <MatchPlayer PlayerRef="p10644" Position="Midfielder" ShirtNumber="19" Status="Start" />
+          <MatchPlayer PlayerRef="p19917" Position="Midfielder" ShirtNumber="23" Status="Start" />
+          <MatchPlayer PlayerRef="p45825" Position="Midfielder" ShirtNumber="11" Status="Start" />
+          <MatchPlayer PlayerRef="p26768" Position="Striker" ShirtNumber="18" Status="Start" />
+          <MatchPlayer PlayerRef="p38499" Position="Striker" ShirtNumber="10" Status="Start" />
+          <MatchPlayer PlayerRef="p82964" Position="Striker" ShirtNumber="7" Status="Start" />
+          <MatchPlayer PlayerRef="p55175" Position="Substitute" ShirtNumber="30" Status="Sub" />
+          <MatchPlayer PlayerRef="p17368" Position="Substitute" ShirtNumber="1" Status="Sub" />
+          <MatchPlayer PlayerRef="p39233" Position="Substitute" ShirtNumber="2" Status="Sub" />
+          <MatchPlayer PlayerRef="p54858" Position="Substitute" ShirtNumber="9" Status="Sub" />
+          <MatchPlayer PlayerRef="p48771" Position="Substitute" ShirtNumber="8" Status="Sub" />
+          <MatchPlayer PlayerRef="p36996" Position="Substitute" ShirtNumber="24" Status="Sub" />
+          <MatchPlayer PlayerRef="p80956" Position="Substitute" ShirtNumber="5" Status="Sub" />
+        </PlayerLineUp>
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t449">
+        <Booking Card="Yellow" CardType="Yellow" EventID="160313129" EventNumber="1165" Period="FirstHalf" PlayerRef="p14024" Reason="Hand" Time="16" TimeStamp="20120219T171512+0000" uID="b449-1" />
+        <Booking Card="Yellow" CardType="Yellow" EventID="861296897" EventNumber="1406" Period="FirstHalf" PlayerRef="p16021" Reason="Foul" Time="40" TimeStamp="20120219T173913+0000" uID="b449-2" />
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p16021" Position="Goalkeeper" ShirtNumber="13" Status="Start" />
+          <MatchPlayer PlayerRef="p18352" Position="Defender" ShirtNumber="2" Status="Start" />
+          <MatchPlayer PlayerRef="p76613" Position="Defender" ShirtNumber="3" Status="Start" />
+          <MatchPlayer PlayerRef="p76610" Position="Defender" ShirtNumber="14" Status="Start" />
+          <MatchPlayer PlayerRef="p57527" Position="Defender" ShirtNumber="4" Status="Start" />
+          <MatchPlayer PlayerRef="p14024" Position="Midfielder" ShirtNumber="19" Status="Start" />
+          <MatchPlayer PlayerRef="p39817" Position="Midfielder" ShirtNumber="21" Status="Start" />
+          <MatchPlayer PlayerRef="p17278" Position="Midfielder" ShirtNumber="10" Status="Start" />
+          <MatchPlayer PlayerRef="p27794" Position="Midfielder" ShirtNumber="20" Status="Start" />
+          <MatchPlayer PlayerRef="p14393" Position="Midfielder" ShirtNumber="17" Status="Start" />
+          <MatchPlayer PlayerRef="p49712" Position="Striker" ShirtNumber="9" Status="Start" />
+          <MatchPlayer PlayerRef="p10390" Position="Substitute" ShirtNumber="5" Status="Sub" />
+          <MatchPlayer PlayerRef="p6072" Position="Substitute" ShirtNumber="1" Status="Sub" />
+          <MatchPlayer PlayerRef="p39204" Position="Substitute" ShirtNumber="8" Status="Sub" />
+          <MatchPlayer PlayerRef="p73109" Position="Substitute" ShirtNumber="11" Status="Sub" />
+          <MatchPlayer PlayerRef="p87980" Position="Substitute" ShirtNumber="23" Status="Sub" />
+          <MatchPlayer PlayerRef="p27300" Position="Substitute" ShirtNumber="12" Status="Sub" />
+          <MatchPlayer PlayerRef="p80429" Position="Substitute" ShirtNumber="16" Status="Sub" />
+        </PlayerLineUp>
+      </TeamData>
+    </MatchData>
+    <Team uID="t181">
+      <Country>Spain</Country>
+      <Name>Mallorca</Name>
+      <Player Position="Goalkeeper" uID="p17622">
+        <PersonName>
+          <First>Dudu</First>
+          <Last>Aouate</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p41322">
+        <PersonName>
+          <First>Martí</First>
+          <Last>Crespí</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p28590">
+        <PersonName>
+          <First>José Carlos</First>
+          <Known>Nunes</Known>
+          <Last>Araujo Nunes</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p38079">
+        <PersonName>
+          <First>Pablo</First>
+          <Last>Cáceres</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p17906">
+        <PersonName>
+          <First>Iván</First>
+          <Last>Ramis</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p10644">
+        <PersonName>
+          <First>José Luis</First>
+          <Known>Martí</Known>
+          <Last>Martí Soler</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p19917">
+        <PersonName>
+          <First>Fernando</First>
+          <Last>Tissone</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p45825">
+        <PersonName>
+          <First>Gonzalo</First>
+          <Last>Castro</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p26768">
+        <PersonName>
+          <First>Víctor</First>
+          <Known>Víctor</Known>
+          <Last>Casadesús Castaño</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p38499">
+        <PersonName>
+          <First>Tomer</First>
+          <Last>Hemed</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p82964">
+        <PersonName>
+          <First>Michael</First>
+          <Last>Pereira</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p55175">
+        <PersonName>
+          <First>Álvaro</First>
+          <Known>Álvaro</Known>
+          <Last>Giménez Candela</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p17368">
+        <PersonName>
+          <First>Juan</First>
+          <Last>Calatayud</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p39233">
+        <PersonName>
+          <First>Gianni</First>
+          <Last>Zuiverloon</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p54858">
+        <PersonName>
+          <First>Marvin</First>
+          <Last>Ogunjimi</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p48771">
+        <PersonName>
+          <First>Emilio</First>
+          <Last>Nsue</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p36996">
+        <PersonName>
+          <First>Alejandro</First>
+          <Last>Alfaro</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p80956">
+        <PersonName>
+          <First>Tomás</First>
+          <Last>Pina</Last>
+        </PersonName>
+      </Player>
+      <TeamOfficial Type="Manager" uID="man119">
+        <PersonName>
+          <First>Joaquín</First>
+          <Last>Caparrós</Last>
+        </PersonName>
+      </TeamOfficial>
+    </Team>
+    <Team uID="t449">
+      <Country>Spain</Country>
+      <Name>Villarreal</Name>
+      <Player Position="Goalkeeper" uID="p16021">
+        <PersonName>
+          <First>Diego</First>
+          <Last>López</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p18352">
+        <PersonName>
+          <First>Gonzalo Javier</First>
+          <Known>Gonzalo</Known>
+          <Last>Rodríguez Prado</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p76613">
+        <PersonName>
+          <First>Joan</First>
+          <Last>Oriol</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p76610">
+        <PersonName>
+          <First>Mario Gaspar</First>
+          <Known>Mario Gaspar</Known>
+          <Last>Perez Martinez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p57527">
+        <PersonName>
+          <First>Mateo</First>
+          <Last>Musacchio</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p14024">
+        <PersonName>
+          <First>Marcos</First>
+          <Last>Senna</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p39817">
+        <PersonName>
+          <First>Bruno</First>
+          <Known>Bruno</Known>
+          <Last>Soriano Llido</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p17278">
+        <PersonName>
+          <First>Rubén</First>
+          <Known>Cani</Known>
+          <Last>Gracia Calmache</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p27794">
+        <PersonName>
+          <First>Borja</First>
+          <Known>Borja Valero</Known>
+          <Last>Valero Iglesias</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p14393">
+        <PersonName>
+          <First>Javier</First>
+          <Last>Camuñas</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p49712">
+        <PersonName>
+          <First>Marco Gastón</First>
+          <Known>Marco Ruben</Known>
+          <Last>Ruben Rodríguez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p10390">
+        <PersonName>
+          <First>Carlos</First>
+          <Last>Marchena</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p6072">
+        <PersonName>
+          <First>César</First>
+          <Known>César</Known>
+          <Last>Sánchez Domínguez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p39204">
+        <PersonName>
+          <First>Jonathan</First>
+          <Last>De Guzmán</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p73109">
+        <PersonName>
+          <First>Hernán</First>
+          <Last>Pérez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p87980">
+        <PersonName>
+          <First>Alejandro</First>
+          <Last>Martinuccio</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p27300">
+        <PersonName>
+          <First>Christian</First>
+          <Last>Zapata</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p80429">
+        <PersonName>
+          <First>Gonzalo</First>
+          <Last>Castellani</Last>
+        </PersonName>
+      </Player>
+      <TeamOfficial Type="Manager" uID="man40741">
+        <PersonName>
+          <First>José</First>
+          <Last>Molina</Last>
+        </PersonName>
+      </TeamOfficial>
+    </Team>
+    <Venue uID="v1355">
+      <Country>Spain</Country>
+      <Name>Iberostar Estadi</Name>
+    </Venue>
+  </SoccerDocument>
+</SoccerFeed>
+

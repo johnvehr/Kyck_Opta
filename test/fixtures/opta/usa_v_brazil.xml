@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a06.nexus.opta.net
+     production time:    20120530T080036,877Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="IG_FR" competition_id="88" competition_name="Internationals" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2012-05-30 09-00-36">
+    <MatchData uID="g432238">
+      <MatchInfo Period="PreMatch" Venue_id="7375">
+        <Date>2012-05-31 01:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FedExField</Stat>
+      <Stat Type="City">Washington</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t596" />
+      <TeamData Score="0" Side="Away" TeamRef="t614" />
+    </MatchData>
+    </SoccerDocument>
+</SoccerFeed>
+
