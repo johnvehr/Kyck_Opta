@@ -1,0 +1,29 @@
+en:
+  opta:
+    f7:
+      goal:
+        leads: "#%{shirt_number} %{name} scored at %{minute}' & %{team} leads %{team_score}-%{opponent_score}."
+        draws: "#%{shirt_number} %{name} scored at %{minute}' & %{team} draws %{team_score}-%{opponent_score}."
+        loses: "#%{shirt_number} %{name} scored at %{minute}' & %{team} loses %{team_score}-%{opponent_score}."
+      halftime:
+        leads: "%{team1} leads %{team2} %{score1}-%{score2} at halftime at %{venue}."
+        draws: "%{team1} draws %{team2} %{score1}-%{score2} at halftime at %{venue}."
+      finalscore:
+        defeated: "%{team1} defeated %{team2} %{score1}-%{score2} at %{venue}."
+        draws: "%{team1} draws  %{team2} %{score1}-%{score2} at %{venue}."
+      yellow_card: "%{team} #%{shirt_number} %{name} received a yellow card for a %{reason} at %{minute}'."
+      red_card: "%{team} #%{shirt_number} %{name} received a red card for a %{reason} at %{minute}'."
+      substitution: "%{team} substituted #%{shirt_number_from} %{name_from} for #%{shirt_number_to} %{name_to} at %{minute}'."
+      injury: "%{team} #%{shirt_number} %{name} was injuried at %{minute}' & replaced by %{replaced_by}."
+      starter_team: "%{team1} has released their starting roster versus %{team2} at %{venue}. View roster."
+      assist: "%{team} #%{shirt_number} %{name} assisted %{scored_player} on his goal at %{minute}'."
+      penalty:
+        leads: "#%{shirt_number} %{name} scored on the PK awarded to %{team} & they lead %{team_score}-%{opponent_score}."
+        draws: "#%{shirt_number} %{name} scored on the PK awarded to %{team} & they draws %{team_score}-%{opponent_score}."
+        loses: "#%{shirt_number} %{name} scored on the PK awarded to %{team} & they loses %{team_score}-%{opponent_score}."
+      shootout_begins: "%{team1} & %{team2} entered a penalty kick shootout tied %{team1_score}-%{team2_score}."
+      shootout_kick: "#%{shirt_number} %{name} scored on the %{first} kick for %{team}. %{team_before_score}-%{opponent_before_score} (%{team_shootout_score}-%{opponent_shootout_score})"
+      own_goal: "%{team} #%{shirt_number} %{name} scored on his own goal at %{minute}'."
+      overtime: "%{team1} & %{team2} have entered overtime tied %{team1_score}-%{team2_score}."
+      postponed: "%{team1} & %{team2} match was postponed."
+
